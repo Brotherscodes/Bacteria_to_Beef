@@ -4,7 +4,7 @@
 
 <b>
 
-A company named `Improbable Beef` is searching for a bacterial species that have the ability to synthesize proteins that taste like beef. They've hypothesized that the the ideal bacterial species can be found in the belly button. To test this theory, samples of the navels of people across the country were taken to identify bacteria species that colonize in the area. The volunteers have remained anonymous and were assigned an ID number to track their results. 
+A company named `Improbable Beef` is searching for a bacterial species that have the ability to synthesize proteins that taste like beef. They've hypothesized that the the ideal bacterial species can be found in the belly button. To test this theory, samples of the navels of people across the country were taken to identify bacteria species that colonize in the area. The volunteers have remained anonymous and were assigned an ID number to track their results. Once an ID number is selected, collected information is returned such as demographic info, top ten bacteria found, and washing frequency(WFREQ).
 
 
 <b/>
